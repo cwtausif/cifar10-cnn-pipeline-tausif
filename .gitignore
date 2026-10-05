@@ -1,5 +1,4 @@
 venv/
-.env
 
 __pycache__/
 *.py[cod]
@@ -14,3 +13,8 @@ __pycache__/
 .DS_Store
 .vincent/
 /models
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
