@@ -13,3 +13,4 @@ __pycache__/
 
 .DS_Store
 .vincent/
+/metrics.json
