@@ -1,4 +1,4 @@
 print("CIFAR-10 preprocessing")
 
-NORMALIZATION = True
+NORMALIZATION = False
 print(f"Normalization enabled: {NORMALIZATION}")

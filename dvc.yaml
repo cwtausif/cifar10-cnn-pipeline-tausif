@@ -13,8 +13,7 @@ stages:
       - src/preprocess.py
       - data/raw
       - params.yaml
-    outs:
-      - data/processed
+
 
   train:
     cmd: python src/train.py
