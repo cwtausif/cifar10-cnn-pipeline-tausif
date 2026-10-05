@@ -1,0 +1,6 @@
+[core]
+    remote = dagshub_remote
+['remote "origin"']
+    url = https://dagshub.com/cwtausif/cifar10-cnn-pipeline-tausif.dvc
+['remote "dagshub_remote"']
+    url = https://dagshub.com/cwtausif/cifar10-cnn-pipeline-tausif.dvc
