@@ -48,9 +48,9 @@ stages:
     outs:
     - path: models
       hash: md5
-      md5: a413aa558745269644410b11fc24b7ba.dir
-      size: 8477187
-      nfiles: 2
+      md5: 829cd921e1e7705922c86e94ebf221c5.dir
+      size: 8532896
+      nfiles: 3
   evaluate:
     cmd: python src/evaluate.py
     deps:
