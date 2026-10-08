@@ -3,10 +3,9 @@ preprocess:
   seed: 42
   image_size: 32
 
-
 train:
-  num_filters: 32
-  dropout_rate: 0.5
+  num_filters: 64
+  dropout_rate: 0.25
   learning_rate: 0.001
-  num_epochs: 10
+  num_epochs: 50
   batch_size: 64
